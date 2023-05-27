@@ -1,0 +1,267 @@
+@font-face {
+  font-family: "Brandon Grotesque";
+  src: url("/fonts/Brandon-Grotesque/BrandonGrotesque-Light.woff2")
+      format("woff2"),
+    url("/fonts/Brandon-Grotesque/BrandonGrotesque-Light.woff") format("woff");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Brandon Grotesque";
+  src: url("/fonts/Brandon-Grotesque/BrandonGrotesque-Regular.woff2")
+      format("woff2"),
+    url("/fonts/Brandon-Grotesque/BrandonGrotesque-Regular.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Brandon Grotesque";
+  src: url("/fonts/Brandon-Grotesque/BrandonGrotesque-Medium.woff2")
+      format("woff2"),
+    url("/fonts/Brandon-Grotesque/BrandonGrotesque-Medium.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Brandon Grotesque";
+  src: url("/fonts/Brandon-Grotesque/BrandonGrotesque-Bold.woff2")
+      format("woff2"),
+    url("/fonts/Brandon-Grotesque/BrandonGrotesque-Bold.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Brandon Grotesque";
+  src: url("/fonts/Brandon-Grotesque/BrandonGrotesque-RegularItalic.woff2")
+      format("woff2"),
+    url("/fonts/Brandon-Grotesque/BrandonGrotesque-RegularItalic.woff")
+      format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Brandon Grotesque";
+  src: url("/fonts/Brandon-Grotesque/BrandonGrotesque-Black.woff2")
+      format("woff2"),
+    url("/fonts/Brandon-Grotesque/BrandonGrotesque-Black.woff") format("woff");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
+
+// @font-face {
+//   font-family: 'Brandon Grotesque';
+//   src: url('/fonts/Brandon-Grotesque/BrandonGrotesque-LightItalic.woff2') format('woff2'),
+//       url('/fonts/Brandon-Grotesque/BrandonGrotesque-LightItalic.woff') format('woff');
+//   font-weight: 300;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Brandon Grotesque';
+//   src: url('/fonts/Brandon-Grotesque/BrandonGrotesque-ThinItalic.woff2') format('woff2'),
+//       url('/fonts/Brandon-Grotesque/BrandonGrotesque-ThinItalic.woff') format('woff');
+//   font-weight: 100;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Brandon Grotesque';
+//   src: url('/fonts/Brandon-Grotesque/BrandonGrotesque-MediumItalic.woff2') format('woff2'),
+//       url('/fonts/Brandon-Grotesque/BrandonGrotesque-MediumItalic.woff') format('woff');
+//   font-weight: 500;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Brandon Grotesque';
+//   src: url('/fonts/Brandon-Grotesque/BrandonGrotesque-Thin.woff2') format('woff2'),
+//       url('/fonts/Brandon-Grotesque/BrandonGrotesque-Thin.woff') format('woff');
+//   font-weight: 100;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Brandon Grotesque';
+//   src: url('/fonts/Brandon-Grotesque/BrandonGrotesque-BoldItalic.woff2') format('woff2'),
+//       url('/fonts/Brandon-Grotesque/BrandonGrotesque-BoldItalic.woff') format('woff');
+//   font-weight: bold;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Brandon Grotesque';
+//   src: url('/fonts/Brandon-Grotesque/BrandonGrotesque-BlackItalic.woff2') format('woff2'),
+//       url('/fonts/Brandon-Grotesque/BrandonGrotesque-BlackItalic.woff') format('woff');
+//   font-weight: 900;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+@font-face {
+  font-family: "Classico URW";
+  src: url("/fonts/ClassicoURW/ClassicoURW-Bol.woff2") format("woff2"),
+    url("/fonts/ClassicoURW/ClassicoURW-Bol.woff") format("woff");
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Classico URW";
+  src: url("/fonts/ClassicoURW/ClassicoURW-MedIta.woff2") format("woff2"),
+    url("/fonts/ClassicoURW/ClassicoURW-MedIta.woff") format("woff");
+  font-weight: 500;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Classico URW";
+  src: url("/fonts/ClassicoURW/ClassicoURW-Med.woff2") format("woff2"),
+    url("/fonts/ClassicoURW/ClassicoURW-Med.woff") format("woff");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Classico URW";
+  src: url("/fonts/ClassicoURW/ClassicoURW-BolIta.woff2") format("woff2"),
+    url("/fonts/ClassicoURW/ClassicoURW-BolIta.woff") format("woff");
+  font-weight: bold;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Classico URW";
+  src: url("/fonts/ClassicoURW/ClassicoURW-RegIta.woff2") format("woff2"),
+    url("/fonts/ClassicoURW/ClassicoURW-RegIta.woff") format("woff");
+  font-weight: normal;
+  font-style: italic;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: "Classico URW";
+  src: url("/fonts/ClassicoURW/ClassicoURW-Reg.woff2") format("woff2"),
+    url("/fonts/ClassicoURW/ClassicoURW-Reg.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+// @font-face {
+//   font-family: 'Classico URW';
+//   src: url('/fonts/ClassicoURW/ClassicoURW-Bla.woff2') format('woff2'),
+//     url('/fonts/ClassicoURW/ClassicoURW-Bla.woff') format('woff');
+//   font-weight: 900;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('/fonts/Lato/Lato-Italic.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-Italic.woff') format('woff');
+//   font-weight: normal;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('/fonts/Lato/Lato-Light.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-Light.woff') format('woff');
+//   font-weight: 300;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato Hairline';
+//   src: url('/fonts/Lato/Lato-HairlineItalic.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-HairlineItalic.woff') format('woff');
+//   font-weight: 300;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato Hairline';
+//   src: url('/fonts/Lato/Lato-Hairline.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-Hairline.woff') format('woff');
+//   font-weight: 300;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('/fonts/Lato/Lato-BlackItalic.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-BlackItalic.woff') format('woff');
+//   font-weight: 900;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('/fonts/Lato/Lato-Black.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-Black.woff') format('woff');
+//   font-weight: 900;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('/fonts/Lato/Lato-LightItalic.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-LightItalic.woff') format('woff');
+//   font-weight: 300;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('/fonts/Lato/Lato-BoldItalic.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-BoldItalic.woff') format('woff');
+//   font-weight: bold;
+//   font-style: italic;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('/fonts/Lato/Lato-Regular.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-Regular.woff') format('woff');
+//   font-weight: normal;
+//   font-style: normal;
+//   font-display: swap;
+// }
+
+// @font-face {
+//   font-family: 'Lato';
+//   src: url('/fonts/Lato/Lato-Bold.woff2') format('woff2'),
+//     url('/fonts/Lato/Lato-Bold.woff') format('woff');
+//   font-weight: bold;
+//   font-style: normal;
+//   font-display: swap;
+// }

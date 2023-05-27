@@ -1,0 +1,62 @@
+{
+  "primary": {
+    "firstName": "SupportCenter",
+    "lastName": "TestLead",
+    "email": "test11@asl.com",
+    "phone": "5555555552",
+    "title": "sample title"
+  },
+  "sales": {
+    "firstName": "John",
+    "lastName": "Doe",
+    "email": "",
+    "phone": "",
+    "title": ""
+  },
+  "customerService": {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "phone": "",
+    "title": ""
+  },
+  "account": {
+    "firstName": "",
+    "lastName": "",
+    "email": "",
+    "phone": "",
+    "title": ""
+  },
+  "business": {
+    "headquarters": {
+      "companyName": "sample name",
+      "phone": "",
+      "website": "",
+      "addressOne": "",
+      "addressTwo": "Sample Address 2",
+      "city": "",
+      "state": "",
+      "postal": "",
+      "country": "",
+      "email": ""
+    },
+    "business": {
+      "information": {
+        "annualSales": "",
+        "taxID": "23123123",
+        "dAndbNumber": "",
+        "locationCount": "",
+        "activeCustomerCount": "",
+        "employeeCount": ""
+      },
+      "reference": {
+        "contactFirstName": "",
+        "contactLastName": "",
+        "title": "asdasd",
+        "companyName": "sample name",
+        "phone": "",
+        "email": ""
+      }
+    }
+  }
+}
